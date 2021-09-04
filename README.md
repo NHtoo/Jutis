@@ -1,5 +1,5 @@
-## Welcome to NH2
-### Check your Juti size here by puting the value in centimeter
+# NH2
+## Juti Size Calculator
 
 
 [Jutis Website](https://nhtoo.github.io/Jutis/)
